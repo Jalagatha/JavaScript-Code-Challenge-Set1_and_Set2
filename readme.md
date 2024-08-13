@@ -2,7 +2,6 @@
   This is an individual assignment for every one in the bootcamp;
   ## heading Link
   
-  ![KCF ](https://docs.google.com/document/d/1HquW6VEVDmmwJw0ZluXN51lc4QBAl2OSjhSSx8UHm7A/edit#heading=h.kvwrojyrr903)
   # JavaScript Practice Challenges 
   ![Frontend-Challenges Two ](./img/logo.JPG)
 
