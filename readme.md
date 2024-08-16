@@ -1,4 +1,4 @@
-# Coding Challenge Set Two
+# Coding Challenge Set One and Two
   This is an individual assignment for every one in the bootcamp;
   ## heading Link
   
